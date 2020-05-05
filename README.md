@@ -12,7 +12,9 @@ This is a starter ReactJS template for user authentication using [AWS Cognito](h
 
 ## Getting started with Cognito
 
-Follow the link to [create a user pool](https://docs.aws.amazon.com/cognito/latest/developerguide/getting-started-with-cognito-user-pools.html).
+Follow the link to [create a user pool](https://docs.aws.amazon.com/cognito/latest/developerguide/getting-started-with-cognito-user-pools.html).  
+
+Insert user pool **region**, **id** and **app client id** into file AWS-cognito-react-user-authentication/src/components/auth/CognitoConfig.js
 
 ## Installing
 
